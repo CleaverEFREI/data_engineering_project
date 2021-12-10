@@ -1,0 +1,66 @@
+input[type="text"] {
+	 border: 0px;
+	 border-bottom: 2px solid #92f1fd;
+	 height: 40px;
+	 line-height: 40px;
+	 margin-left: auto;
+     margin-right: auto;
+	 padding: 0.5em 0.75em;
+	 width: 100%;
+	 background-color: transparent;
+	 color: #195a6f;
+	 transition: all 0.25s ease-out;
+}
+ label {
+	 position: absolute;
+	 left: 0.5em;
+	 z-index: 0;
+	 top: 10px;
+	 transition: all 0.25s ease-out;
+	 color: #92f1fd;
+}
+ .showLabel, input[type="text"]:focus + label {
+	 top: -1.5em;
+	 z-index: -1;
+}
+ .hasInput, input[type="text"]:focus {
+	 background-color: #b0f4fd !important;
+	 border-color: transparent;
+}
+ input[type="submit"] {
+	 border: 0px;
+	 background: #3f70c5;
+	 padding: 0.5em 1.5em;
+	 color: #eee;
+	 font-size: 0.875em;
+	 transition: background-color 0.25s ease-in;
+	 cursor: pointer;
+}
+
+ * {
+	 box-sizing: border-box;
+	 max-width: 100%;
+}
+ *:focus {
+	 outline: none;
+}
+ body {
+	 background: #304770;
+	 font: 16px 'Cabin', sans-serif;
+}
+ h1 {
+	 color: #eee;
+	 text-align: center;
+	 margin: 1em 0 0;
+	 font-size: 3em;
+}
+ form {
+	 position: relative;
+	 margin: 3em 10em;
+}
+ input[type="text"], input[type="submit"] {
+	 -webkit-appearance: none;
+}
+ input, label {
+	 letter-spacing: 1px;
+}
