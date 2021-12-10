@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/maintenance/yes/2021?style=for-the-badge"
       alt="Maintenance" />
   <!-- Docker -->
-    <img src="https://img.shields.io/docker/automated/CleaverEFREI/data_engineering_project?style=for-the-badge"
+    <img src="https://img.shields.io/docker/automated/efreicleaver/data_engineering_project?style=for-the-badge"
       alt="DOCKER" />
   <!-- Last Commit -->
   <a href="https://github.com/CleaverEFREI/data_engineering_project/commit/main">
