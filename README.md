@@ -1,4 +1,4 @@
-<h1 align="center">data_engineering_project</h1>
+<h1 align="center">Data Engineering Project</h1>
 
 <div align="center">
   The purpose of this project is to combine all the skills collected throughout the course thus far, and to provide a solid example of real-life application development in a DevOps environment.
