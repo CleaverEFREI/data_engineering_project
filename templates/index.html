@@ -6,14 +6,14 @@
 <link rel="stylesheet"  type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 
-<form>
-  <input type="text" id="inputdata">
+<form action="{{ url_for('predict')}}"method="post">
+  <input type="text" id="inputdata" required="required">
   <label for="inputdata">Input Here</label>
   <br>
   <br>
   <input type="submit" value="Submit">
 </form>
-
+<h2>{{ prediction_text }}</h2>
 <script>
 $('input[type="text"]').blur(function() {
  if ($(this).val() !== "") {
