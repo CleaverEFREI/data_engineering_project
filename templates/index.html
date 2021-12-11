@@ -1,3 +1,4 @@
+<link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
 <br>
 <h1>Data Enginering Project</h1>
 <br>
@@ -6,8 +7,8 @@
 <link rel="stylesheet"  type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 
-<form action="{{ url_for('predict')}}"method="post">
-  <input type="text" id="inputdata" required="required">
+<form action="{{ url_for('predict')}}"method="POST">
+  <input type="text" name="inputdata" id="inputdata" required="required">
   <label for="inputdata">Input Here</label>
   <br>
   <br>
