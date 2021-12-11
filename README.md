@@ -15,11 +15,6 @@
   <!-- Maintenance -->
     <img src="https://img.shields.io/maintenance/yes/2021?style=for-the-badge"
       alt="Maintenance" />
-  <!-- Docker -->
-  <a href="https://hub.docker.com/repository/docker/efreicleaver/data_engineering_project">
-    <img src="https://img.shields.io/docker/automated/efreicleaver/data_engineering_project?style=for-the-badge"
-      alt="DOCKER" />
-  </a>
   <!-- Last Commit -->
   <a href="https://github.com/CleaverEFREI/data_engineering_project/commit/main">
     <img src="https://img.shields.io/github/last-commit/CleaverEFREI/data_engineering_project?style=for-the-badge"
