@@ -54,6 +54,12 @@ input[type="text"] {
 	 margin: 1em 0 0;
 	 font-size: 3em;
 }
+ h2 {
+	color: #eee;
+	text-align: center;
+	margin: 1em 0 0;
+	font-size: 2em;
+}
  form {
 	 position: relative;
 	 margin: 3em 10em;
