@@ -55,12 +55,12 @@ For any further detail, please contact the instructor: **Khodor Hammoud**.
 - The accuracy of the sentiment analyzer should be above 80%
 - The application must be easily deployable
 
-2. Application Overview
+## 2. Application Overview
   
   <img src="https://media.discordapp.net/attachments/747573184554991697/919867771901337630/unknown.png" width="786" height="584">
   
 
-3. Technical Description
+## 3. Technical Description
 
 **3.1 The ML Model**
 
@@ -74,7 +74,7 @@ The students are free to choose whichever technology they know/like to create th
 
 The final format of the application ready for distribution should be a Docker Image, which administrators can simply run Containers from. Students should provide a description file with their submitted application in which whey describe how to run their image (like providing on which port does the application run by default…)
 
-4. Technical Requirements
+## 4. Technical Requirements
 
 The students are to use the following technologies and steps throughout their implementation:
 
