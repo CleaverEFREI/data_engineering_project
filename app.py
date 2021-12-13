@@ -11,10 +11,25 @@ vectorizer = pickle.load(open("vectorizer.pkl","rb"))
 
 @app.route('/')
 def index():
+    """
+    Render the index base template
+    """
     return render_template('index.html')
+
+
+@app.route('/health_check')
+def health_check():
+    """
+    Used to verify that the app is up and running
+    """
+    return "ok"
+
 
 @app.route('/predict', methods = ["POST"])
 def predict():
+    """
+    Get data from index form, use the pretrainned model pickle and return the setiment in prediction_text
+    """
     r = request.form.get('inputdata', "This is a default value")
     if r[0] == '!':
         r = r[1:]
