@@ -1,8 +1,13 @@
 <h1 align="center">Data Engineering Project</h1>
 
-<div align="center">
-  The purpose of this project is to combine all the skills collected throughout the course thus far, and to provide a solid example of real-life application development in a DevOps environment.
-</div>
+## Project Summary
+
+As a part of the curriculum of the Master 2 (M2) course entitled &quot;Data Engineering II&quot;, the students will complete a team project work. Each team is composed of 3 members, and the members will take care of dividing the tasks equally between them. The purpose of this project is to combine all the skills collected throughout the course thus far, and to provide a solid example of real-life application development in a DevOps environment.
+
+The following sections provide necessary information about the description of the application to be created.
+
+Instructor: **Khodor Hammoud**.
+  
 
 <br />
 
@@ -37,15 +42,6 @@
 <a href="https://www.efrei.fr/" target="_blank"><img src="https://www.efrei.fr/wp-content/uploads/2019/06/Logo-Efrei-2017-Fr-Web.png" width="270" height="100"></a>
 </div>
   
-  
-  
-## Project Summary
-
-As a part of the curriculum of the Master 2 (M2) course entitled &quot;Data Engineering II&quot;, the students will complete a team project work. Each team is composed of 3 members, and the members will take care of dividing the tasks equally between them. The purpose of this project is to combine all the skills collected throughout the course thus far, and to provide a solid example of real-life application development in a DevOps environment.
-
-The following sections provide necessary information about the description of the application to be created.
-
-For any further detail, please contact the instructor: **Khodor Hammoud**.
 
 ## 1. User Stories
 
