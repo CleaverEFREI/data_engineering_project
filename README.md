@@ -1,6 +1,5 @@
 <h1 align="center">Data Engineering Project</h1>
-## Final Docker Image :
-https://hub.docker.com/r/efreicleaver/data_engineering_project_web
+
 ## Project Summary
 
 As a part of the curriculum of the Master 2 (M2) course entitled &quot;Data Engineering II&quot;, the students will complete a team project work. The purpose of this project is to combine all the skills collected throughout the course thus far, and to provide a solid example of real-life application development in a DevOps environment.
@@ -42,7 +41,9 @@ Instructor: **Khodor Hammoud**.
 <div align="center">
 <a href="https://www.efrei.fr/" target="_blank"><img src="https://www.efrei.fr/wp-content/uploads/2019/06/Logo-Efrei-2017-Fr-Web.png" width="270" height="100"></a>
 </div>
-  
+
+## Final Docker Image :
+https://hub.docker.com/r/efreicleaver/data_engineering_project_web
 
 ## 1. User Stories
 
