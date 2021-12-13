@@ -10,6 +10,9 @@ pytest_plugin = ["docker_compose"]
 
 @pytest.fixture(name="homepage")
 def fixture_homepage(function_scoped_container_getter) -> str:
+    """
+    Fixture using plugin https://github.com/todofixthis/pytest-docker-compose for interact with Docker containers
+    """
 
     service = function_scoped_container_getter.get('web').network_info[0]
 
