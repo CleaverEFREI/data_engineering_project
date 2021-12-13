@@ -45,6 +45,12 @@ Instructor: **Khodor Hammoud**.
 ## Final Docker Image :
 https://hub.docker.com/r/efreicleaver/data_engineering_project_web
 
+  <img src="https://media.discordapp.net/attachments/761273567693897739/920013597814431796/unknown.png?width=1440&height=303">
+  
+  ### For get score info type ! before your text :
+  
+  <img src="https://media.discordapp.net/attachments/761273567693897739/920013882775461898/unknown.png?width=1440&height=283">
+  
 ## 1. User Stories
 
 - The application is a sentiment analysis application, which, given a piece of text, should be able to reply with its sentiment as being positive, negative, or neutral.
