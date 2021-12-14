@@ -11,7 +11,6 @@ Instructor: **Khodor Hammoud**.
 Info :
 It's possible that pytest with plugin has some problems with some version of docker-compose if it happens to you just downgrade the version "3.9" to "3.3" of docker-compose.yaml
 
-
 <br />
 
 <div align="center">
@@ -21,7 +20,7 @@ It's possible that pytest with plugin has some problems with some version of doc
       alt="license" />
   </a>
   <!-- Maintenance -->
-    <img src="https://img.shields.io/maintenance/yes/2021?style=for-the-badge"
+    <img src="https://img.shields.io/maintenance/no/2021?style=for-the-badge"
       alt="Maintenance" />
   <!-- Last Commit -->
   <a href="https://github.com/CleaverEFREI/data_engineering_project/commit/main">
@@ -53,6 +52,10 @@ https://hub.docker.com/r/efreicleaver/data_engineering_project_web
   ### For get score info type ! before your text :
   
   <img src="https://media.discordapp.net/attachments/761273567693897739/920013882775461898/unknown.png?width=1440&height=283">
+  
+Model accuracy:
+
+<img src="https://media.discordapp.net/attachments/761273567693897739/920347102918369352/unknown.png?width=1920&height=90">
   
 ## 1. User Stories
 
