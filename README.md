@@ -8,6 +8,9 @@ The following sections provide necessary information about the description of th
 
 Instructor: **Khodor Hammoud**.
   
+Info :
+It's possible that pytest with plugin has some problems with some version of docker-compose if it happens to you just downgrade the version "3.9" to "3.3" of docker-compose.yaml
+
 
 <br />
 
